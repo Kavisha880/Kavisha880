@@ -20,24 +20,50 @@ I am an engineering student passionate about coding, AI, and problem-solving, co
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">  
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">    
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">  
-</p> 
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  
+</p>
+
 
 ### Libraries/Frameworks
 <p>   
  
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white">  
+  <p>  
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">  
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white">  
+  <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">  
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  
+  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white">  
+  <img src="https://img.shields.io/badge/-Tkinter-ffcc00?style=for-the-badge&logo=python&logoColor=black">  
+  <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=for-the-badge&logo=opencv&logoColor=white">  
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">  
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">  
+  <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=black">  
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">  
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">  
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">  
+  <img src="https://img.shields.io/badge/-Geopy-1F8E3E?style=for-the-badge&logo=python&logoColor=white">  
+</p>
+ 
+  
 
 </p>  
 
 
 ### Coursework
 - *Data Structures and Algorithms (DSA)*
-- *Database Maganament System (DBMS)*
+- *Database Management System (DBMS)*
 - *Operating System (OS)*
 
 ---
 
 ## 💻 Projects
+**ResQHer**
+ResQHer is an innovative women's safety application designed to provide real-time location tracking and an instant SOS feature. With just a tap or a voice command, it alerts trusted contacts and emergency services, ensuring quick assistance in distress situations. Built to empower women with security and confidence, ResQHer is a reliable digital guardian for every moment. 
+### [House Price Prediction](https://github.com/yourusername/House-Price-Prediction)
+A machine learning model to predict house prices based on various features.  
+- Technologies Used: Scikit-learn, Pandas, NumPy, Regression Models, Python
 
 
 
@@ -64,9 +90,11 @@ I am an engineering student passionate about coding, AI, and problem-solving, co
 ---
 
 ## 🌐 Connect with Me
-<a href="https://porfolio-lake-three.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=web&logoColor=white" height="50">
-</a>
+<p>  
+  <a href="https://www.linkedin.com/in/kavisha-gupta-871b04247/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 ---
 
