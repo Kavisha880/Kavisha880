@@ -85,7 +85,7 @@ A machine learning model to predict house prices based on various features.
 
 ## 📊 GitHub Stats  
 
-
+![Kavisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kavisha880&show_icons=true&theme=radical)
 
 ---
 
